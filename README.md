@@ -1,0 +1,2 @@
+# Hydroelectric-power-plant-model
+3D printed hydroelectric power plant model with Pelton turbine is used for demonstration of physical laws in generating electrical energy using hydropower plants. By changing the height difference and changing the water flow, the user can directly influence the production of electricity. The BLDC motor is used as a generator and the LED strip as an indicator of produced power. The experimental system is a great tool to demonstrate basics of converting energy from potential energy -> kinetic -> mechanical -> electric.
